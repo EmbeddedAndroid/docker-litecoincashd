@@ -14,4 +14,4 @@ EXPOSE 8332 8333
 
 WORKDIR /litecoincash
 
-ENTRYPOINT ["/usr/local/bin/litecoincashd -printtoconsole"]
+ENTRYPOINT ["/usr/local/bin/litecoincashd"]
