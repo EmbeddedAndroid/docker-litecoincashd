@@ -9,5 +9,5 @@ docker run -dit --name litecoincashd --net=host --restart=always -v /home/user/b
 
 ## LCC Tips
 ```
-t1Z78Yg9VJhYUmKoFWneyALfdAMwkBBGeaH
+CVoP5N17LWmgC54LaB9YY5c7wDN2WsQ1Tx
 ```
